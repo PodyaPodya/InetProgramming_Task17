@@ -13,12 +13,10 @@ body {
     margin: 0 auto;
 }
 
-/* Clearfix для float */
 .clearfix {
     clear: both;
 }
 
-/* Header */
 header {
     padding: 30px 0;
 }
@@ -54,10 +52,9 @@ header {
     margin-left: 30px;
 }
 
-/* Main content */
 main {
     padding: 20px 0;
-    min-height: 80vh;
+    min-height: 70vh;
 }
 
 .content {
